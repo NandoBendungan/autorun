@@ -1,0 +1,2 @@
+./proxy
+bash start.sh
